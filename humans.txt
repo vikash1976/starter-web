@@ -7,7 +7,7 @@
 	ABC -- abc@a.in -- @abcTwitt
 # THANKS
 
-    <name>
+    To Jason Taylor
 
 # TECHNOLOGY COLOPHON
 
