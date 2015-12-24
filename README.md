@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 Please for this repository
 Sample website with plenty of files for demos
 
-@Cpyright to ABC Company
+@Cpyright to ABC Company All right reserved
